@@ -16,11 +16,11 @@ typings ERR! If you need help, you may report this error at:
 typings ERR!   <https://github.com/typings/typings/issues>
 npm ERR! code 1
 ```
-- **Error Description:**
-  The error indicates a failure to fetch typing definitions for jasmine from `https://api.typings.org/search?name=jasmine`, resulting in a 404 error.
+- **Error Description:**\
+    The error indicates a failure to fetch typing definitions for jasmine from `https://api.typings.org/search?name=jasmine`, resulting in a 404 error.
 - **Cause Analysis:**
- - The project uses an outdated method for managing TypeScript type definitions. With the rise of npm as the standard package manager for both JavaScript libraries and TypeScript type definitions, Typings became obsolete and modern projects should use @types packages from npm.
- - The Typings registry `https://api.typings.org` has been deprecated and is no longer maintained. The error is due to the unavailability of the requested resources as the Typings Definitions are no longer hosted.
+   - The project uses an outdated method for managing TypeScript type definitions. With the rise of npm as the standard package manager for both JavaScript libraries and TypeScript type definitions, Typings became obsolete and modern projects should use @types packages from npm.
+   - The Typings registry `https://api.typings.org` has been deprecated and is no longer maintained. The error is due to the unavailability of the requested resources as the Typings Definitions are no longer hosted.
 
 ## Referral Links
 - **Typings Repository Deprecation Notice:** https://github.com/typings/typings
