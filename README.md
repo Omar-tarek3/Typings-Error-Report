@@ -1,4 +1,4 @@
-# Typings-Error-Report
+# Typings Error Report
 This repository provides a report on the issue encountered during the installation of the typings.json file, explaining why it is primarily a developer concern rather than a DevOps issue.
 
 ## Error
