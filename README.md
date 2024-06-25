@@ -24,7 +24,7 @@ npm ERR! code 1
 
 ## Referral Links
 - **Typings Repository Deprecation Notice:** https://github.com/typings/typings
-- **npm igrating from Typings to @types:** https://www.npmjs.com/package/typings
+- **npm migrating from Typings to @types:** https://www.npmjs.com/package/typings
 
 Hence, this issue falls outside the DevOps scope as it pertains to the management of TypeScript type definitions within the project's codebase. It is a development concern, specifically related to updating dependencies and project configuration to comply with current standards and practices.
 
